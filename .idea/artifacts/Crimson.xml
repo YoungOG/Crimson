@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Crimson">
+    <output-path>$PROJECT_DIR$/../Compiled</output-path>
+    <root id="archive" name="Crimson.jar">
+      <element id="module-output" name="Crimson" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.11.0/mongo-java-driver-2.11.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

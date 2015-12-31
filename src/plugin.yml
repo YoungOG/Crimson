@@ -1,0 +1,9 @@
+name: Crimson
+main: com.breakmc.crimson.Crimson
+author: Young
+assisted by: Flap
+softdepend: [Legacy]
+description: CTF Plugin for the BreakMC Network
+version: 0.1-SNAPSHOT
+commands:
+    ctf:

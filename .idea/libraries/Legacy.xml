@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Legacy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Compiled/Legacy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

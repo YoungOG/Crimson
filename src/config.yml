@@ -1,0 +1,4 @@
+database:
+  host: localhost
+  database-name: crimson
+  port: 27017
